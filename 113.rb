@@ -16,17 +16,17 @@ puts a + b + c
 bob7 = 50
 #7bob = 50
 # should be deleted as variable names cannot start with a digit
-#bob@ = 50
+# bob@ = 50
 # should be deleted as @ is not allowed
-#@bob = 50
-#should be deleted as variable names cannot start with @.
+@bob = 50
 bob_ = 50
 _bob = 50
 #bob$ = 50
 #should be deleted as $ is not allowed.
-#$bob = 50
-# should be deleted as variable names cannot start with $.
+$bob = 50
 
 puts bob7
+puts @bob
 puts bob_
 puts _bob
+puts $bob
