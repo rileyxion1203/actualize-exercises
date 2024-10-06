@@ -1,8 +1,7 @@
 # DELIBERATE PRACTICE REFLECTION
 # Paste a deliberate practice question you are currently working on below.
-# Write the code to solve the problem without looking at any notes or other resources.
 
-#Write a while loop that prints the numbers 50 to 70.
+# Write a while loop that prints the numbers 50 to 70.
 number = 50
 while number < 71
     puts number 
