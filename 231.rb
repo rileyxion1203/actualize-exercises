@@ -27,3 +27,5 @@ end
 
 # Were you able to easily solve the problem from memory?
 # Yes, but I need to master some shortcuts like "#{ticket_price}".
+
+#Revised the initiate commit

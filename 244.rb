@@ -44,4 +44,5 @@ while number < people.length
 end 
 
 
+# Revised the initiate commit
 

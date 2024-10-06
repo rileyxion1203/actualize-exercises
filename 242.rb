@@ -13,3 +13,5 @@ x = {"Hello" => "hello", "Name" => "Kevin"}
 x["Complement"]= "Nice job!"
 
 pp x
+
+# Revised the initiate commit

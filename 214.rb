@@ -38,3 +38,5 @@ grand = erie * franklin
 wells = franklin / grand
 
 puts franklin, grand, wells
+
+#Revised the initiate commit

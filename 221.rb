@@ -22,3 +22,5 @@ pp pairs_hash
 
 # I didn't solve it easily. I got stuck because I am unfamiliar with the concept"array of arrays", 
 # and I couldn't comprehend the statement "pairs_hash[key] = value" at the first place.
+
+#Revised the initiate commit

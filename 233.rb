@@ -41,3 +41,5 @@ colors.each do |color|
   puts color.upcase
   index = index + 1
 end
+
+# Revised the initiate commit

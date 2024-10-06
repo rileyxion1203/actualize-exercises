@@ -17,3 +17,4 @@ while count >= 1 and count < 11
   count = count + 1
 end 
 
+# Revised the initiate commit

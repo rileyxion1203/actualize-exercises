@@ -30,3 +30,4 @@ shoe = Shoe.new("Gucci","Red",1300)
 pp shoe
 
 
+# Revised the initiate commit
