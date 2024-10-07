@@ -11,3 +11,5 @@ puts "Hello World"
 #2.Write a program that uses a variable to store a word, then prints the word with all lowercase letters.
 word = "morning!"
 puts word
+
+# Revised the initial commit.

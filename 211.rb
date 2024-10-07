@@ -1,5 +1,4 @@
 # DELIBERATE PRACTICE REFLECTION
-# Paste a deliberate practice question you are currently working on below.
 
 # Write a while loop that prints the numbers 50 to 70.
 number = 50
