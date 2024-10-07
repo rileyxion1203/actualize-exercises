@@ -41,13 +41,11 @@ class Song
   # Fix the errors in the code below.
   class Person
     attr_reader :name, :height
+    def initialize(name,height)
+      @name = name
+      @height = height
+    end 
   end
-  
-  def initialize(name,height)
-    @name = name
-    @height = height
-  end 
-  
   person = Person.new("Rob", 80)
   pp person
   pp person.name
