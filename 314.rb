@@ -12,18 +12,23 @@
 # Write a program that asks the user to enter a single word 
 # and prints out the Pig Latin version of that word.
 
-#Step 1: Write a method that prints user's input
+#Step 1: Write a method that prints user's input and validate that's not empty.
 
 # puts "Please enter a word: "
 # word = gets.chomp
 
 # def Pig_Latin(word)
-#   puts word
+#   if word.length > 0
+#     return word
+#   else 
+#     puts "Please provide a valid word."
+#   end
 # end
 
 # Pig_Latin(word)
 
-#Step 2: Write a method that # The first letter of each word is removed from the beginning and added to the end. ""
+#Step 2: Write a method that "The first letter of each word is removed from the beginning and added to the end. "
+# and "the letters 'ay' are added to the very end of the word."
 
 
 puts "Please enter a word: "
@@ -40,6 +45,4 @@ end
 
 puts Pig_Latin(word)
 
-#and added to the end. 
-# Then, the letters 'ay' are added to the very end of the word.
 
