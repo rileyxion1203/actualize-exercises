@@ -11,9 +11,10 @@
 
 numbers = [4, 6, 1, 4, 2, 8, 3, 4, 1, 7]
 
-
+#1: Create a hash that counts the counts of each number
 counts_each_number = {}
 
+#2: Create a loop that iterates all the numbers in the array, and add the counts into the hash created above
 index = 0
 
 while index < numbers.length
@@ -25,17 +26,8 @@ while index < numbers.length
   end
   index = index + 1
 end
-
 pp counts_each_number
+
+#3: Extract all the key from the hash. 
 keys = counts_each_number.keys
 pp keys
-
-
-
-#1: Create a hash that counts the counts of each number
-
-
-#2: Figure out how to duplicate a element from an array
-
-#3: How can a program detect a duplicate element?
-#A element appears twice, >2
